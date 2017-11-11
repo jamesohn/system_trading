@@ -1,0 +1,7 @@
+#text file
+*.txt
+*.xlsx
+
+# object file
+*.o
+*.exe
